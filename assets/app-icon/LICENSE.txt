@@ -1,10 +1,5 @@
-iCreate Photo app icon (docs/brand/icreate-mark.svg and every file derived from it in this
-directory: photocraft.svg, photocraft-small.svg, photocraft-1024.png, photocraft.icns,
-photocraft.ico, icreate-photo.svg, hicolor/).
+iCreate Photo Slate app icon and derived files in this directory.
 
-The leaping-figure mark is owned by iCreativate. Trademark terms: docs/brand/LICENSE-brand.txt.
-Derived raster and icon-container files in this directory may be redistributed with this
-repository and with official iCreate Photo builds under the same dual licence as the code
-(MIT OR Apache-2.0; see LICENSE-MIT and LICENSE-APACHE), subject to the brand-mark terms.
-
-Regenerate the derived files with packaging/icons.sh.
+Owned by iCreativate. Trademark terms: docs/brand/LICENSE-brand.txt.
+Derived files may ship with this repository and official builds under MIT OR Apache-2.0
+(LICENSE-MIT, LICENSE-APACHE), subject to those brand-mark terms.
