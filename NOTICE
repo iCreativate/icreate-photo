@@ -1,11 +1,18 @@
-PhotoCraft
+iCreate Photo
+Copyright (c) 2026 iCreativate.
+
+Based on PhotoCraft
 Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors.
 Licensed under the MIT License or the Apache License, Version 2.0, at your option
 (LICENSE-MIT, LICENSE-APACHE).
 
-The ArtCraft name, wordmark and logos in docs/brand/ are trademarks of the ArtCraft Team. They are
-not open source and are not covered by the license above; their terms are in
-docs/brand/LICENSE-brand.txt.
+This product is a fork of PhotoCraft (https://github.com/storytold/photocraft). The iCreate
+name and leaping-figure mark in docs/brand/ and assets/app-icon/ are trademarks of
+iCreativate; their terms are in docs/brand/LICENSE-brand.txt.
+
+The ArtCraft name, wordmark and logos are trademarks of the ArtCraft Team. They are not
+open source and are not covered by the license above. This fork does not ship the ArtCraft
+Marks; you may say, in plain text, that this work is based on PhotoCraft by the ArtCraft Team.
 
 Third-party material
 
@@ -65,7 +72,7 @@ MIT License
 
 Copyright (c) 2014 John Slegers
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 

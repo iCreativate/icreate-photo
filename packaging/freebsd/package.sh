@@ -16,7 +16,7 @@ set -euo pipefail
 # shellcheck source=../env.sh
 . "$(dirname "${BASH_SOURCE[0]}")/../env.sh"
 LINUX="$ROOT/packaging/linux"
-APP_ID=ai.storyteller.photocraft
+APP_ID=za.co.icreativate.icreate-photo
 
 SKIP_BUILD=0
 DRY_RUN=0
@@ -62,7 +62,7 @@ if [[ "$DRY_RUN" = 0 ]] && [[ "$(uname -s)" != FreeBSD ]]; then
 fi
 BASENAME="photocraft-$VERSION-freebsd-$ARCH"
 
-echo "==> PhotoCraft $VERSION for FreeBSD $ARCH"
+echo "==> iCreate Photo $VERSION for FreeBSD $ARCH"
 
 # The release VM has 12 GB; full parallelism on the biggest crates runs it out of memory.
 export CARGO_BUILD_JOBS="${CARGO_BUILD_JOBS:-4}"
