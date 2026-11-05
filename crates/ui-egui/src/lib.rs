@@ -18,7 +18,7 @@ pub const UPDATE_APP: craft_update::app::App = craft_update::app::App {
     repo: "iCreativate/icreate-photo",
     developer: "iCreativate",
     icon_png: Some(include_bytes!("../../../assets/app-icon/hicolor/128x128/apps/za.co.icreativate.icreate-photo.png")),
-    accent: Some([0x00, 0xc2, 0xd4]),
+    accent: Some([0x4a, 0x90, 0xe8]),
     ..craft_update::suite::PHOTOCRAFT
 };
 

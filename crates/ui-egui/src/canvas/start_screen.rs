@@ -203,7 +203,7 @@ fn render_start_content(app: &mut PhotocraftApp, ui: &mut egui::Ui, recent: &[St
     ui.horizontal(|ui| {
         let badge_size = egui::vec2(24.0, 19.0);
         let (badge_rect, _) = ui.allocate_exact_size(badge_size, Sense::hover());
-        ui.painter().rect_filled(badge_rect, 3.0, egui::Color32::from_rgb(0, 194, 212));
+        ui.painter().rect_filled(badge_rect, 3.0, egui::Color32::from_rgb(74, 144, 232));
         ui.painter().text(badge_rect.center(), egui::Align2::CENTER_CENTER, "01", crate::theme::semibold(10.5), egui::Color32::WHITE);
 
         ui.add_space(10.0);
